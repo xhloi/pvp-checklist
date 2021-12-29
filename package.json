@@ -1,0 +1,23 @@
+{
+  "name": "dark-souls-pvp-checklist",
+  "version": "0.1.0",
+  "description": "A checklist for setting up a new character for PvP in Dark Souls",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhloi/pvp-checklist.git"
+  },
+  "keywords": [
+    "dark",
+    "souls",
+    "checklist",
+    "pvp",
+    "games"
+  ],
+  "author": "Herm Xhloi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xhloi/pvp-checklist/issues"
+  },
+  "homepage": "https://github.com/xhloi/pvp-checklist#readme"
+}

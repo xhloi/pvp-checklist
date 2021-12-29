@@ -1,0 +1,28 @@
+:root {
+    --dark: #010101;
+    --light: #f1f1f1;
+}
+
+body, html {
+    color: var(--dark);
+    background: var(--light);
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    display: grid;
+}
+
+main {
+    margin: auto;
+}
+
+label {
+    cursor: pointer;
+}
+
+@media(prefers-color-scheme: dark) {
+    body {
+        color: var(--light);
+        background: var(--dark);
+    }
+}
